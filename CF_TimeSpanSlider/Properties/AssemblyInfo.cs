@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die mit einer Assembly verknüpft sind.
 [assembly: AssemblyTitle("CF_TimeSpanSlider")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("TimeSpan Slider Control")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Christian Fenkart")]
 [assembly: AssemblyProduct("CF_TimeSpanSlider")]
 [assembly: AssemblyCopyright("Copyright ©  2013")]
 [assembly: AssemblyTrademark("")]
